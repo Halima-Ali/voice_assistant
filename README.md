@@ -7,4 +7,13 @@ random facts
 
 # Running the program
 1. Run main.py
-2. 
+2. You can modify the code to specify keywords for the program to search for in the recognised speech.
+
+# Future Improvements
+1. Adding new features and capabilities to the voice assistant, such as the ability to understand and respond to
+more complex commands.
+2. Incorporating more sophisticated security measures, such as biometric authentication and block chain
+technology, to protect user data from unauthorized access.
+3. Developing a system that can learn and adapt over time, based on the user's preferences and behavior.
+Integrating the system with more devices, such as cars, home appliances, and medical devices, to improve
+the user experience and make the technology more widely available
